@@ -10,5 +10,3 @@ This is a Django Project. The technologies used in this project are :
  * MySQL
  * HTML
  * CSS
-
-Project Link : https://onlineparkingsystem.herokuapp.com/
